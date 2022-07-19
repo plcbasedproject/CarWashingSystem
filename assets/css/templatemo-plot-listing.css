@@ -1338,6 +1338,11 @@ form#contact button:hover {
   color: #fff;
 }
 
+#thanks_message{
+  margin: 20px;
+  font-size: xx-large;
+}
+
 
 /* 
 ---------------------------------------------
@@ -1582,7 +1587,6 @@ Category Post
   width: 200px;
   max-height: 250px;
 }
-
 
 
 /* 
